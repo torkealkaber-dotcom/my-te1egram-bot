@@ -1,0 +1,7 @@
+aiogram>=3.20,<4.0
+pyrogram>=2.0,<3.0
+py-tgcalls>=2.0,<3.0
+yt-dlp
+python-dotenv
+cryptography
+aiohttp
